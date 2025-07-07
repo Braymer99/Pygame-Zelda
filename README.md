@@ -1,7 +1,7 @@
-README - Zelda
-
-Autor: Braymer David Domínguez Morales
+Nombre/Apellido: Braymer David Domínguez Morales
 Matrícula: 22-SISN-2-052
+
+README - Zelda
 
 🎮 Descripción del Proyecto
 
