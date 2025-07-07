@@ -1,0 +1,5 @@
+# Nombre/Apellido: Braymer David Domínguez Morales
+# Matricula: 22-SISN-2-052
+
+pygame==2.5.2
+pytmx==3.32
